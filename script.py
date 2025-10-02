@@ -7,7 +7,7 @@ import re
 import language_tool_python
 
 # Настройки
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
+BOT_TOKEN = "8249203742:AAH4G-a1zq-ej6FqvXkxk81CyD3lbeP6C2E"
 tool = language_tool_python.LanguageTool('ru-RU')  # Для русского языка
 
 # Создание бота
